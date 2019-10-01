@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hcl.bank.service.TransactionServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.056 s <<< FAILURE! - in com.hcl.bank.service.TransactionServiceImplTest
+testFundTransfer(com.hcl.bank.service.TransactionServiceImplTest)  Time elapsed: 0.002 s  <<< ERROR!
+com.hcl.bank.exception.CommonException: Both Account Not Be Same
+	at com.hcl.bank.service.TransactionServiceImplTest.testFundTransfer(TransactionServiceImplTest.java:38)
+

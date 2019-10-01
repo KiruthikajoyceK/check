@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hcl.bank.service.BenificiaryServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.276 s <<< FAILURE! - in com.hcl.bank.service.BenificiaryServiceImplTest
+tetsAddBenificiary(com.hcl.bank.service.BenificiaryServiceImplTest)  Time elapsed: 0.027 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.hcl.bank.service.BenificiaryServiceImplTest.tetsAddBenificiary(BenificiaryServiceImplTest.java:53)
+
